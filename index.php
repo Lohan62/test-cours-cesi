@@ -6,7 +6,7 @@
     </head>
     <body>
 <center>
-        <img src="logo1.png" alt="YOPStore">
+        <img src="Logo1.png" alt="YOPStore">
     <h2> Formulaire de contact</h2>
     <form style="margin-left: 3em">
        <div class="form-container">
